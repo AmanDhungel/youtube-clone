@@ -4,6 +4,8 @@
 
 
 for full photo: https://ibb.co/pw1JjKT
+
+
 in terminal:
 -npx creat
 e-react-app youtube-clone
