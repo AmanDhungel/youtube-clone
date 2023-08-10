@@ -2,6 +2,8 @@
 
 ![YouTube](https://i.ibb.co/pw1JjKT/Screenshot-2023-08-10-221814.png)
 
+
+for full photo: https://ibb.co/pw1JjKT
 in terminal:
 -npx creat
 e-react-app youtube-clone
