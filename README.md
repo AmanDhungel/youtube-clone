@@ -1,9 +1,10 @@
 # Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5
 
-![YouTube](https://i.ibb.co/pw1JjKT/Screenshot-2023-08-10-221814.png)
+![YouTube]([https://i.ibb.co/pw1JjKT/Screenshot-2023-08-10-221814.png](https://ibb.co/qBWj3bn))
 
 in terminal:
--npx create-react-app youtube-clone
+-npx creat
+e-react-app youtube-clone
 -cd youtube-clone
 -npm i depedencies -p
 
